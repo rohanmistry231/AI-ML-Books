@@ -8,125 +8,102 @@ Welcome to the AI/ML Books Repository! This collection contains a curated select
    - *Author:* Jeffrey Aven
    - *Title:* Apache Spark in 24 Hours
    - *Publisher:* Pearson Education (2016)
-   - *Format:* PDF
 
 2. **Next-Generation Big Data**
    - *Author:* Butch Quinto
    - *Publisher:* Apress (2018)
-   - *Format:* PDF
 
 3. **Data Engineering with Apache Spark**
    - *Title:* Delta Lake and Data Engineering
-   - *Format:* PDF
    - *Source:* Anna's Archive (LibGenRS NF-3132421)
 
 4. **Mastering Machine Learning on AWS**
    - *Authors:* Dr. Saket SR Mengle, Maximo Gurmendez
    - *Title:* Advanced Machine Learning in Python Using SageMaker, Apache Spark, and TensorFlow
    - *Publisher:* Packt Publishing (2019)
-   - *Format:* PDF
 
 5. **Stream Processing with Apache Spark**
    - *Authors:* Gerard Maas, Francois Garillot
    - *Title:* Mastering Structured Streaming and Spark Streaming
    - *Publisher:* O'Reilly Media (2019)
-   - *Format:* PDF
 
 6. **Beginning Apache Spark 3**
    - *Author:* Hien Luu
    - *Title:* With DataFrame, Spark SQL Structured Streaming, and Spark Machine Learning Library
    - *Publisher:* Apress (2021)
-   - *Format:* PDF
 
 7. **Learning Spark**
    - *Authors:* Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
    - *Title:* Lightning-Fast Big Data Analysis
    - *Publisher:* O'Reilly Media (2015)
-   - *Format:* PDF
 
 8. **In-Memory Analytics with Apache Arrow**
    - *Title:* Perform Fast Analytics
-   - *Format:* PDF
    - *Source:* Anna's Archive (LibGenRS NF-3302561)
 
 9. **Scala Programming for Big Data Analytics**
    - *Author:* Irfan Elahi
    - *Title:* Get Started With Big Data Analytics Using Apache Spark
    - *Publisher:* Apress (2019)
-   - *Format:* PDF
 
 10. **Hadoop in 24 Hours, Sams Teach Yourself**
     - *Author:* Jeffrey Aven
     - *Publisher:* Sams Teach Yourself (2017)
-    - *Format:* PDF
 
 11. **Designing Data-Intensive Applications**
     - *Author:* Martin Kleppmann
     - *Title:* The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
     - *Publisher:* O'Reilly Media (2018)
-    - *Format:* PDF
 
 12. **Building Data Streaming Applications with Apache Kafka**
     - *Authors:* Manish Kumar, Chanchal Singh
     - *Publisher:* Packt Publishing (2017)
-    - *Format:* PDF
 
 13. **Learning Python**
-    - *Format:* PDF
 
 14. **Learning Spark: Lightning-Fast Data Analytics**
     - *Source:* Anna's Archive (LibGenRS NF-2548214)
-    - *Format:* PDF
 
 15. **Azure Data Engineering Cookbook**
     - *Authors:* Nagaraj Venkatesan, Ahmad Osama
     - *Title:* Get Well Versed in Various Data Engineering Techniques in Azure
     - *Publisher:* Packt Publishing (2022)
-    - *Format:* PDF
 
 16. **Azure Databricks Cookbook**
     - *Authors:* Phani Raj, Vinod Jaiswal
     - *Title:* Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service
     - *Publisher:* Packt Publishing (2021)
-    - *Format:* PDF
 
 17. **Python Programming for Beginners**
     - *Title:* The Ultimate Guide for Beginners to Learn Python Programming
     - *Publisher:* AMZ
-    - *Format:* PDF
 
 18. **Python for Data Analysis**
     - *Title:* Data Wrangling with pandas, NumPy, and Jupyter (3rd Edition)
-    - *Format:* PDF
 
 19. **Apache Spark Graph Processing**
     - *Author:* Rindra Ramamonjison
     - *Publisher:* Packt Publishing (2015)
-    - *Format:* PDF
 
 20. **Beginning Apache Spark Using Azure Databricks**
     - *Author:* Robert Ilijason
     - *Title:* Unleashing Large Cluster Analytics in the Cloud
     - *Publisher:* Apress (2020)
-    - *Format:* PDF
 
 21. **Modern Data Engineering with Apache Spark**
     - *Author:* S. Haines
     - *Title:* A Hands-On Guide for Building Mission-Critical Streaming Applications
     - *Publisher:* 2022
-    - *Format:* PDF
 
 22. **Hadoop: The Definitive Guide (4th Edition)**
     - *Author:* Tom White
     - *Title:* Storage and Analysis at Internet Scale
     - *Publisher:* O'Reilly Media (2015)
-    - *Format:* PDF
 
 23. **PySpark Cookbook**
     - *Authors:* Tomasz Drabas, Denny Lee
     - *Title:* Over 60 Recipes for Implementing Big Data Processing and Analytics Using Apache Spark and Python
     - *Publisher:* Packt Publishing (2018)
-    - *Format:* PDF
 
 ## Usage
 
