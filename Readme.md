@@ -1,118 +1,52 @@
-# AI/ML Books Repository
+# 📚 AI ML Books Repository
 
-Welcome to the AI/ML Books Repository! This collection contains a curated selection of books focused on various aspects of artificial intelligence, machine learning, and big data technologies. Each book provides valuable insights and practical knowledge to help you advance your skills in these fields.
+Welcome to the **AI ML Books** repository! 🚀 This collection features a curated set of resources focusing on **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Big Data Engineering**, **Data Analytics**, and **Cloud-based tools**. These books cover essential tools and frameworks such as **Apache Spark**, **Hadoop**, **Python**, and **Azure Databricks** to help you dive deeper into the field of AI/ML and Big Data.
 
-## List of Books
+---
 
-1. **Sams Teach Yourself in 24 Hours**
-   - *Author:* Jeffrey Aven
-   - *Title:* Apache Spark in 24 Hours
-   - *Publisher:* Pearson Education (2016)
+## 📖 What's Inside?
 
-2. **Next-Generation Big Data**
-   - *Author:* Butch Quinto
-   - *Publisher:* Apress (2018)
+Here’s a quick overview of the content:
 
-3. **Data Engineering with Apache Spark**
-   - *Title:* Delta Lake and Data Engineering
-   - *Source:* Anna's Archive (LibGenRS NF-3132421)
+### 1. [**Big Data and Apache Spark**](./Big-Data-and-Apache-Spark/)  
+- [Sams Teach Yourself Apache Spark in 24 Hours](./Big-Data-and-Apache-Spark/Sams_Teach_Yourself_Apache_Spark_in_24_Hours.pdf) – Jeffrey Aven  
+- [Next-Generation Big Data](./Big-Data-and-Apache-Spark/Next-Generation_Big_Data.pdf) – Butch Quinto  
+- [Data Engineering with Apache Spark and Delta Lake](./Big-Data-and-Apache-Spark/Data_Engineering_with_Apache_Spark.pdf) – annas-archive  
+- [Stream Processing with Apache Spark](./Big-Data-and-Apache-Spark/Stream_Processing_with_Apache_Spark.pdf) – Gerard Maas, Francois Garillot  
+- [Beginning Apache Spark 3](./Big-Data-and-Apache-Spark/Beginning_Apache_Spark_3.pdf) – Hien Luu  
+- [Learning Spark: Lightning-Fast Big Data Analysis](./Big-Data-and-Apache-Spark/Learning_Spark.pdf) – Holden Karau et al.  
+- [Apache Spark Graph Processing](./Big-Data-and-Apache-Spark/Apache_Spark_Graph_Processing.pdf) – Rindra Ramamonjison  
 
-4. **Mastering Machine Learning on AWS**
-   - *Authors:* Dr. Saket SR Mengle, Maximo Gurmendez
-   - *Title:* Advanced Machine Learning in Python Using SageMaker, Apache Spark, and TensorFlow
-   - *Publisher:* Packt Publishing (2019)
+### 2. [**Hadoop and Data Streaming**](./Hadoop-and-Data-Streaming/)  
+- [Hadoop in 24 Hours](./Hadoop-and-Data-Streaming/Hadoop_in_24_Hours.pdf) – Jeffrey Aven  
+- [Building Data Streaming Applications with Apache Kafka](./Hadoop-and-Data-Streaming/Building_Data_Streaming_Applications.pdf) – Manish Kumar, Chanchal Singh  
+- [Hadoop: The Definitive Guide](./Hadoop-and-Data-Streaming/Hadoop_The_Definitive_Guide.pdf) – Tom White  
 
-5. **Stream Processing with Apache Spark**
-   - *Authors:* Gerard Maas, Francois Garillot
-   - *Title:* Mastering Structured Streaming and Spark Streaming
-   - *Publisher:* O'Reilly Media (2019)
+### 3. [**Cloud and Data Engineering**](./Cloud-and-Data-Engineering/)  
+- [Mastering Machine Learning on AWS](./Cloud-and-Data-Engineering/Mastering_Machine_Learning_on_AWS.pdf) – Dr. Saket S.R. Mengle, Maximo Gurmendez  
+- [Azure Data Engineering Cookbook](./Cloud-and-Data-Engineering/Azure_Data_Engineering_Cookbook.pdf) – Nagaraj Venkatesan, Ahmad Osama  
+- [Azure Databricks Cookbook](./Cloud-and-Data-Engineering/Azure_Databricks_Cookbook.pdf) – Phani Raj, Vinod Jaiswal  
+- [Beginning Apache Spark Using Azure Databricks](./Cloud-and-Data-Engineering/Beginning_Apache_Spark_Azure_Databricks.pdf) – Robert Ilijason  
+- [Modern Data Engineering with Apache Spark](./Cloud-and-Data-Engineering/Modern_Data_Engineering_with_Spark.pdf) – S. Haines  
 
-6. **Beginning Apache Spark 3**
-   - *Author:* Hien Luu
-   - *Title:* With DataFrame, Spark SQL Structured Streaming, and Spark Machine Learning Library
-   - *Publisher:* Apress (2021)
+### 4. [**Python Programming and Data Analytics**](./Python-Programming-and-Data-Analytics/)  
+- [Learning Python](./Python-Programming-and-Data-Analytics/Learning_Python.pdf)  
+- [Python Programming for Beginners](./Python-Programming-and-Data-Analytics/Publishing, AMZ - Python Programming for Beginners.pdf)  
+- [Python for Data Analysis](./Python-Programming-and-Data-Analytics/Python_for_Data_Analysis_3rd_Edition.pdf)  
 
-7. **Learning Spark**
-   - *Authors:* Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
-   - *Title:* Lightning-Fast Big Data Analysis
-   - *Publisher:* O'Reilly Media (2015)
+### 5. [**Advanced Data Applications and Frameworks**](./Advanced-Data-Applications-and-Frameworks/)  
+- [Designing Data-Intensive Applications](./Advanced-Data-Applications-and-Frameworks/Designing_Data_Intensive_Applications.pdf) – Martin Kleppmann  
+- [Scala Programming for Big Data Analytics](./Advanced-Data-Applications-and-Frameworks/Scala_Programming_for_Big_Data.pdf) – Irfan Elahi  
+- [PySpark Cookbook](./Advanced-Data-Applications-and-Frameworks/PySpark_Cookbook.pdf) – Tomasz Drabas, Denny Lee  
 
-8. **In-Memory Analytics with Apache Arrow**
-   - *Title:* Perform Fast Analytics
-   - *Source:* Anna's Archive (LibGenRS NF-3302561)
+### 6. [**In-Memory Analytics**](./In-Memory-Analytics/)  
+- [In-Memory Analytics with Apache Arrow](./In-Memory-Analytics/In_Memory_Analytics.pdf)  
 
-9. **Scala Programming for Big Data Analytics**
-   - *Author:* Irfan Elahi
-   - *Title:* Get Started With Big Data Analytics Using Apache Spark
-   - *Publisher:* Apress (2019)
+---
 
-10. **Hadoop in 24 Hours, Sams Teach Yourself**
-    - *Author:* Jeffrey Aven
-    - *Publisher:* Sams Teach Yourself (2017)
+## 🚀 Usage
 
-11. **Designing Data-Intensive Applications**
-    - *Author:* Martin Kleppmann
-    - *Title:* The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-    - *Publisher:* O'Reilly Media (2018)
-
-12. **Building Data Streaming Applications with Apache Kafka**
-    - *Authors:* Manish Kumar, Chanchal Singh
-    - *Publisher:* Packt Publishing (2017)
-
-13. **Learning Python**
-
-14. **Learning Spark: Lightning-Fast Data Analytics**
-    - *Source:* Anna's Archive (LibGenRS NF-2548214)
-
-15. **Azure Data Engineering Cookbook**
-    - *Authors:* Nagaraj Venkatesan, Ahmad Osama
-    - *Title:* Get Well Versed in Various Data Engineering Techniques in Azure
-    - *Publisher:* Packt Publishing (2022)
-
-16. **Azure Databricks Cookbook**
-    - *Authors:* Phani Raj, Vinod Jaiswal
-    - *Title:* Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service
-    - *Publisher:* Packt Publishing (2021)
-
-17. **Python Programming for Beginners**
-    - *Title:* The Ultimate Guide for Beginners to Learn Python Programming
-    - *Publisher:* AMZ
-
-18. **Python for Data Analysis**
-    - *Title:* Data Wrangling with pandas, NumPy, and Jupyter (3rd Edition)
-
-19. **Apache Spark Graph Processing**
-    - *Author:* Rindra Ramamonjison
-    - *Publisher:* Packt Publishing (2015)
-
-20. **Beginning Apache Spark Using Azure Databricks**
-    - *Author:* Robert Ilijason
-    - *Title:* Unleashing Large Cluster Analytics in the Cloud
-    - *Publisher:* Apress (2020)
-
-21. **Modern Data Engineering with Apache Spark**
-    - *Author:* S. Haines
-    - *Title:* A Hands-On Guide for Building Mission-Critical Streaming Applications
-    - *Publisher:* 2022
-
-22. **Hadoop: The Definitive Guide (4th Edition)**
-    - *Author:* Tom White
-    - *Title:* Storage and Analysis at Internet Scale
-    - *Publisher:* O'Reilly Media (2015)
-
-23. **PySpark Cookbook**
-    - *Authors:* Tomasz Drabas, Denny Lee
-    - *Title:* Over 60 Recipes for Implementing Big Data Processing and Analytics Using Apache Spark and Python
-    - *Publisher:* Packt Publishing (2018)
-
-## Usage
-
-Feel free to explore and read these books to enhance your knowledge in AI, ML, and big data technologies. Each book is provided in PDF format for easy access and reference.
-
-## Contributing
-
-If you have additional books to add or any updates to suggest, please feel free to submit a pull request or open an issue.
-
-## License
-
-This repository is provided for educational purposes. All rights to the books belong to their respective authors and publishers.
+### 1. **Clone the Repository**  
+Use the following command to clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/AI-ML-Books.git
