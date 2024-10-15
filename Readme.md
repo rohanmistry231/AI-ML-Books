@@ -8,7 +8,7 @@ Welcome to the **AI ML Books** repository! 🚀 This collection features a curat
 
 Here’s a quick overview of the content:
 
-### 1. [**Big Data and Apache Spark**](./Big-Data-and-Apache-Spark/)  
+### 1. [**Big Data and Apache Spark**](./Big_Data_and_Apache_Spark/)  
 - [Sams Teach Yourself Apache Spark in 24 Hours](./Big-Data-and-Apache-Spark/Sams_Teach_Yourself_Apache_Spark_in_24_Hours.pdf) – Jeffrey Aven  
 - [Next-Generation Big Data](./Big-Data-and-Apache-Spark/Next-Generation_Big_Data.pdf) – Butch Quinto  
 - [Data Engineering with Apache Spark and Delta Lake](./Big-Data-and-Apache-Spark/Data_Engineering_with_Apache_Spark.pdf) – annas-archive  
