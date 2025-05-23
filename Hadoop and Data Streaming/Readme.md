@@ -3,9 +3,9 @@
 This folder offers comprehensive resources on **Hadoop** and **data streaming technologies** like Kafka. Learn to handle large datasets and build real-time streaming pipelines.
 
 ## 📚 Included Books:
-- [Hadoop in 24 Hours](../path-to-pdf/Hadoop_in_24_Hours.pdf) – Jeffrey Aven  
-- [Building Data Streaming Applications with Apache Kafka](../path-to-pdf/Building_Kafka_Applications.pdf) – Manish Kumar, Chanchal Singh  
-- [Hadoop: The Definitive Guide](../path-to-pdf/Hadoop_Definitive_Guide.pdf) – Tom White  
+- Hadoop in 24 Hours – Jeffrey Aven  
+- Building Data Streaming Applications with Apache Kafka – Manish Kumar, Chanchal Singh  
+- Hadoop: The Definitive Guide – Tom White
 
 ---
 

@@ -3,7 +3,7 @@
 This folder contains resources focused on **in-memory analytics**, a critical approach for speeding up data processing by storing data in RAM instead of disks. It’s ideal for real-time data applications and fast computations.
 
 ## 📚 Included Books:
-- [In-Memory Analytics with Apache Arrow](../path-to-pdf/In_Memory_Analytics.pdf) – annas-archive   
+- In-Memory Analytics with Apache Arrow – annas-archive   
 
 ---
 

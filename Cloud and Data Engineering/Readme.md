@@ -3,11 +3,11 @@
 Explore **cloud computing** and **data engineering** practices in this section. These books will guide you through implementing ML models on AWS, data engineering solutions on Azure, and more.
 
 ## 📚 Included Books:
-- [Mastering Machine Learning on AWS](../path-to-pdf/ML_on_AWS.pdf) – Dr. Saket S.R. Mengle, Maximo Gurmendez  
-- [Azure Data Engineering Cookbook](../path-to-pdf/Azure_Data_Engineering_Cookbook.pdf) – Nagaraj Venkatesan, Ahmad Osama  
-- [Azure Databricks Cookbook](../path-to-pdf/Azure_Databricks_Cookbook.pdf) – Phani Raj, Vinod Jaiswal  
-- [Beginning Apache Spark Using Azure Databricks](../path-to-pdf/Spark_on_Azure.pdf) – Robert Ilijason  
-- [Modern Data Engineering with Apache Spark](../path-to-pdf/Modern_Data_Engineering_Spark.pdf) – S. Haines  
+- Mastering Machine Learning on AWS – Dr. Saket S.R. Mengle, Maximo Gurmendez  
+- Azure Data Engineering Cookbook – Nagaraj Venkatesan, Ahmad Osama  
+- Azure Databricks Cookbook – Phani Raj, Vinod Jaiswal  
+- Beginning Apache Spark Using Azure Databricks – Robert Ilijason  
+- Modern Data Engineering with Apache Spark – S. Haines  
 
 ---
 

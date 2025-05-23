@@ -3,9 +3,9 @@
 In this section, explore advanced data frameworks and applications. These books cover **data-intensive applications**, **PySpark**, **Scala programming**, and more.
 
 ## 📚 Included Books:
-- [Designing Data-Intensive Applications](../path-to-pdf/Designing_Data_Intensive_Applications.pdf) – Martin Kleppmann  
-- [Scala Programming for Big Data Analytics](../path-to-pdf/Scala_for_Big_Data.pdf) – Irfan Elahi  
-- [PySpark Cookbook](../path-to-pdf/PySpark_Cookbook.pdf) – Tomasz Drabas, Denny Lee  
+- Designing Data-Intensive Applications – Martin Kleppmann  
+- Scala Programming for Big Data Analytics – Irfan Elahi  
+- PySpark Cookbook – Tomasz Drabas, Denny Lee  
 
 ---
 
